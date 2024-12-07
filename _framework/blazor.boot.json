@@ -1,13 +1,13 @@
 {
   "mainAssemblyName": "MeterReading.Blazor",
   "resources": {
-    "hash": "sha256-guETM/dESx1v4pZkIO6l4FU4SSTirYUNNr2ahh1nk6Q=",
+    "hash": "sha256-0GXqVty4O+WdZQKGUA6us4V0e/u8ToGuWicem5BmY8Y=",
     "fingerprinting": {
       "Blazored.LocalStorage.12n6dz54qr.wasm": "Blazored.LocalStorage.wasm",
       "Mapster.Core.r03ymwt7ab.wasm": "Mapster.Core.wasm",
       "Mapster.DependencyInjection.8bjlrigrrp.wasm": "Mapster.DependencyInjection.wasm",
       "Mapster.wzxea9ogkd.wasm": "Mapster.wasm",
-      "MeterReading.Blazor.ownhi9d2z0.wasm": "MeterReading.Blazor.wasm",
+      "MeterReading.Blazor.piwfkr9fhd.wasm": "MeterReading.Blazor.wasm",
       "Microsoft.AspNetCore.Components.Forms.2ada1kmtgt.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
       "Microsoft.AspNetCore.Components.orelb97vrd.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.v6zm0wzwgl.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -107,7 +107,7 @@
       "System.Xml.Linq.bbx5kr3gw0.wasm": "System.Xml.Linq.wasm",
       "System.Xml.ReaderWriter.vaej7kdryl.wasm": "System.Xml.ReaderWriter.wasm",
       "System.Xml.XDocument.q32h0u5hry.wasm": "System.Xml.XDocument.wasm",
-      "WellManagement.Data.Lib.80jtl8rxtg.wasm": "WellManagement.Data.Lib.wasm",
+      "WellManagement.Data.Lib.s5fwkhxmh0.wasm": "WellManagement.Data.Lib.wasm",
       "dotnet.native.k5s086dixr.js": "dotnet.native.js",
       "dotnet.native.aabub71elp.wasm": "dotnet.native.wasm",
       "dotnet.js": "dotnet.js",
@@ -139,7 +139,7 @@
       "Mapster.Core.r03ymwt7ab.wasm": "sha256-NdZQb4vbK7CyJQt/ASSfjsX1tYWI0ydx1IPEfq0dCHs=",
       "Mapster.DependencyInjection.8bjlrigrrp.wasm": "sha256-BJhjkNZfwSR8BVoS3x2iNxw4wWslyolfAqTUaemdy7I=",
       "Mapster.wzxea9ogkd.wasm": "sha256-nDEA/C3NIkhZ0yevTwZg30tOYubkKh8TLLIiggmYG74=",
-      "MeterReading.Blazor.ownhi9d2z0.wasm": "sha256-SPn8LuOWedFjniWnM1Gh79kk9VFAxEz1KjR/Ci7wK9k=",
+      "MeterReading.Blazor.piwfkr9fhd.wasm": "sha256-n33iy4f5aMC8W6IBxaOV4X41WJvGa0GqqOi7fGGG3oU=",
       "Microsoft.AspNetCore.Components.Forms.2ada1kmtgt.wasm": "sha256-unJi/r47G/lY1P9mu/JsRuzgx07Zt93aPLiVlXLgIJc=",
       "Microsoft.AspNetCore.Components.orelb97vrd.wasm": "sha256-BB1LDErSnvMpmeEZ95rM0B4hQ3g+v4WP4RQdroFoah8=",
       "Microsoft.AspNetCore.Components.Web.v6zm0wzwgl.wasm": "sha256-pwvAOevNVuAnmfG+VH/s4FElGukrP8QlwWIk+L6BLU0=",
@@ -237,7 +237,7 @@
       "System.Xml.Linq.bbx5kr3gw0.wasm": "sha256-50dVChh2QJYCLLia2vmYR8/Cyxw2D7Y5dFwnnzVUiZ0=",
       "System.Xml.ReaderWriter.vaej7kdryl.wasm": "sha256-2WlPmUsG8GKYVcr7vjcAaVILYGi3EgGr+zsOveDankk=",
       "System.Xml.XDocument.q32h0u5hry.wasm": "sha256-5uzroEB10mAZCZ0VTgdXoiF0kOCNX27xMjgMkPlWa/w=",
-      "WellManagement.Data.Lib.80jtl8rxtg.wasm": "sha256-iLXBuC3klbjEtK3H3xxyRqB48A4SByCjBHPQrpAVdGI="
+      "WellManagement.Data.Lib.s5fwkhxmh0.wasm": "sha256-QOOX9hrErjqvun+SMa1hDntuHJJtNoShTYZVMhTpbiA="
     }
   },
   "cacheBootResources": true,

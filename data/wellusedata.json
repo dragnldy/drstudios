@@ -1,0 +1,200 @@
+[
+  {
+    "id": 377,
+    "year": 2023,
+    "month": 1,
+    "monthIndex": 277,
+    "readingStatus": 1,
+    "consumption": 84374.4000,
+    "householdConsumption": 57040.0000
+  },
+  {
+    "id": 407,
+    "year": 2023,
+    "month": 2,
+    "monthIndex": 278,
+    "readingStatus": 1,
+    "consumption": 88638.0000,
+    "householdConsumption": 56590.0000
+  },
+  {
+    "id": 437,
+    "year": 2023,
+    "month": 3,
+    "monthIndex": 279,
+    "readingStatus": 1,
+    "consumption": 111975.6000,
+    "householdConsumption": 61690.0000
+  },
+  {
+    "id": 467,
+    "year": 2023,
+    "month": 4,
+    "monthIndex": 280,
+    "readingStatus": 1,
+    "consumption": 97988.0000,
+    "householdConsumption": 71630.0000
+  },
+  {
+    "id": 497,
+    "year": 2023,
+    "month": 5,
+    "monthIndex": 281,
+    "readingStatus": 1,
+    "consumption": 65150.8000,
+    "householdConsumption": 62680.0000
+  },
+  {
+    "id": 527,
+    "year": 2023,
+    "month": 6,
+    "monthIndex": 282,
+    "readingStatus": 1,
+    "consumption": 100755.6000,
+    "householdConsumption": 90730.0000
+  },
+  {
+    "id": 557,
+    "year": 2023,
+    "month": 7,
+    "monthIndex": 283,
+    "readingStatus": 1,
+    "consumption": 118408.4000,
+    "householdConsumption": 108300.0000
+  },
+  {
+    "id": 587,
+    "year": 2023,
+    "month": 8,
+    "monthIndex": 284,
+    "readingStatus": 1,
+    "consumption": 94397.6000,
+    "householdConsumption": 92480.0000
+  },
+  {
+    "id": 617,
+    "year": 2023,
+    "month": 9,
+    "monthIndex": 285,
+    "readingStatus": 1,
+    "consumption": 79961.2000,
+    "householdConsumption": 72240.0000
+  },
+  {
+    "id": 647,
+    "year": 2023,
+    "month": 10,
+    "monthIndex": 286,
+    "readingStatus": 1,
+    "consumption": 62158.8000,
+    "householdConsumption": 60190.0000
+  },
+  {
+    "id": 677,
+    "year": 2023,
+    "month": 11,
+    "monthIndex": 287,
+    "readingStatus": 1,
+    "consumption": 54005.6000,
+    "householdConsumption": 53400.0000
+  },
+  {
+    "id": 707,
+    "year": 2023,
+    "month": 12,
+    "monthIndex": 288,
+    "readingStatus": 1,
+    "consumption": 68965.6000,
+    "householdConsumption": 59430.0000
+  },
+  {
+    "id": 738,
+    "year": 2024,
+    "month": 1,
+    "monthIndex": 289,
+    "readingStatus": 1,
+    "consumption": 77044.0000,
+    "householdConsumption": 56620.0000
+  },
+  {
+    "id": 769,
+    "year": 2024,
+    "month": 2,
+    "monthIndex": 290,
+    "readingStatus": 1,
+    "consumption": 243324.0000,
+    "householdConsumption": 50020.0000
+  },
+  {
+    "id": 800,
+    "year": 2024,
+    "month": 3,
+    "monthIndex": 291,
+    "readingStatus": 1,
+    "consumption": 666019.0000,
+    "householdConsumption": 45990.0000
+  },
+  {
+    "id": 831,
+    "year": 2024,
+    "month": 4,
+    "monthIndex": 292,
+    "readingStatus": 1,
+    "consumption": 908149.0000,
+    "householdConsumption": 58520.0000
+  },
+  {
+    "id": 862,
+    "year": 2024,
+    "month": 5,
+    "monthIndex": 293,
+    "readingStatus": 1,
+    "consumption": 121941.0000,
+    "householdConsumption": 55910.0000
+  },
+  {
+    "id": 893,
+    "year": 2024,
+    "month": 6,
+    "monthIndex": 294,
+    "readingStatus": 1,
+    "consumption": 74960.0000,
+    "householdConsumption": 64000.0000
+  },
+  {
+    "id": 924,
+    "year": 2024,
+    "month": 7,
+    "monthIndex": 295,
+    "readingStatus": 1,
+    "consumption": 114641.0000,
+    "householdConsumption": 96787.0000
+  },
+  {
+    "id": 955,
+    "year": 2024,
+    "month": 8,
+    "monthIndex": 296,
+    "readingStatus": 1,
+    "consumption": 102292.0000,
+    "householdConsumption": 83061.0000
+  },
+  {
+    "id": 986,
+    "year": 2024,
+    "month": 9,
+    "monthIndex": 297,
+    "readingStatus": 1,
+    "consumption": 68908.0000,
+    "householdConsumption": 92370.0000
+  },
+  {
+    "id": 1017,
+    "year": 2024,
+    "month": 10,
+    "monthIndex": 298,
+    "readingStatus": 1,
+    "consumption": 0.0000,
+    "householdConsumption": 64346.0000
+  }
+]
